@@ -1,0 +1,14 @@
+Data Munging Instructions
+==============================
+
+In the "/js/3-data-munge/weather.dat" file
+	you’ll find daily weather data
+	for Morristown, NJ for June 2002.
+	
+The file contains the following columns:
+	Column 1: Day Number
+	Column 2: Maximum Temperature
+	Column 3: Minimum Temperature
+
+Write a program to output
+	the day number with the smallest temperature spread.
