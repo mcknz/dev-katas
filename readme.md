@@ -30,7 +30,7 @@ These katas use [Jasmine](https://jasmine.github.io/), a behavior-driven develop
 
 Karma runs on [Node.js](http://nodejs.org/) and is available as an [Node Package Manager](https://npmjs.org/package/karma) (npm) package.
 
-The default browser is Chrome -- you may edit the [Karma configuration](./karma.comf.js) to change this. See the [Browsers](https://karma-runner.github.io/2.0/config/browsers.html) section for more information.
+The default browser is ChromeHeadless -- you may edit the [Karma configuration](./karma.conf.js) to change this. See the [Browsers](https://karma-runner.github.io/2.0/config/browsers.html) section for more information.
 
 
 ### Installing
