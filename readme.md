@@ -12,14 +12,13 @@ Code katas for learning and practicing Test-Driven Development (TDD)
 
  * [Kata Code](./js)
    * [Example Code](./js/clue-module.js)
-   * [Fizz Buzz Code](./js/fizz-buzz.js)
-   * [String Calculator Code](./js/string-calc.js)
-   * [Data Munging Code](./js/data-munge.js)
-   * [Data Munging Data Source](./js/weather.dat)
+   * [Fizz Buzz Code](./js/1-fizz-buzz/fizz-buzz.js)
+   * [String Calculator Code](./js/2-string-calc/string-calc.js)
+   * [Data Munging Code](./js/3-data-munge/data-munge.js)
 
 
  * [Kata Tests](./test)
-   * [Example Tests](./js/clue-module.test.js)
+   * [Example Tests](./test/clue-module.test.js)
    * [Fizz Buzz Tests](./test/fizz-buzz.test.js)
    * [String Calculator Tests](./test/string-calc.test.js)
    * [Data Munging Tests](./test/data-munge.test.js)
