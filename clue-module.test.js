@@ -14,4 +14,8 @@ describe("Clue", function () {
 	it("should return the solution 'Green, Hall, Candlestick'", function () {
         expect(clue.solve()).toBe('Green, Hall, Candlestick');
     });
+
+    it("gives 20 year sentence", function () {
+        expect(clue.sentence).toBe('20 years');
+    })
 });

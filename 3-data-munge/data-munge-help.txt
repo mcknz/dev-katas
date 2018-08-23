@@ -1,14 +1,19 @@
 Data Munging Instructions
-==============================
+=========================
 
-In the "/js/3-data-munge/data-munge.js" file
-	you’ll find an array with daily weather data
+In the "/3-data-munge/data-munge.js" file
+	you’ll find a string called "weatherData"
+	that contains daily weather data
 	for Morristown, NJ for June 2002.
+
+The comment at the top of the file
+	shows how the string would appear
+	if it were printed as output.
 	
 The array contains the following columns:
 	Column 1: Day Number
 	Column 2: Maximum Temperature
 	Column 3: Minimum Temperature
 
-Write a program to output
-	the day number with the smallest temperature spread.
+Write a program to output the day number
+	with the smallest temperature spread.
