@@ -5,9 +5,9 @@ Code katas for learning and practicing Test-Driven Development (TDD)
 ## Contents
 
  * [Kata instructions](./help)
-   * [Fizz Buzz Instructions](./help/1-fizz-buzz.txt)
-   * [String Calculator Instructions](./help/2-string-calc.txt)
-   * [Data Munging Instructions](./help/3-data-munge.txt)
+   * [Fizz Buzz Instructions](./1-fizz-buzz/fizz-buzz-help.txt)
+   * [String Calculator Instructions](./2-string-calc/string-calc-help.txt)
+   * [Data Munging Instructions](./3-data-munge/data-munge-help.txt)
 
 
  * [Kata Code](./js)
